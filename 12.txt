@@ -1,0 +1,6 @@
+calss{
+
+  piblic function aciton(){
+   echo "gittest";
+}
+}
